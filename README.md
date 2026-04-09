@@ -112,6 +112,19 @@ To retrain models on new data:
 python -m src.pipeline.training_pipeline
 ```
 
+## ✅ Screenshots
+<img width="1920" height="1080" alt="Screenshot from 2026-04-09 14-06-24" src="https://github.com/user-attachments/assets/f5f7f0ee-067a-4819-ab95-ae07416d9530" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-09 14-08-42" src="https://github.com/user-attachments/assets/7a40f294-7c50-4685-acb3-c4bfddccd758" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-09 14-10-57" src="https://github.com/user-attachments/assets/435f8843-5916-4d7a-bb9a-90f71371381c" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-09 14-11-33" src="https://github.com/user-attachments/assets/d1cc1b88-96b4-422e-88a8-9afbadb1c552" />
+
+<img width="1920" height="1080" alt="Screenshot from 2026-04-09 14-27-14" src="https://github.com/user-attachments/assets/54585ae2-2b03-461c-ab5c-1282e71b6cc4" />
+
+
+
 ## ⚙️ Configuration
 
 Customize the system through `src/config/config.py`:
